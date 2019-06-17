@@ -1,0 +1,6 @@
+token=NTQ2MTQwODE1MTU2ODM4NDMw.XQe3qw.SKVhUZEwiKOzp6BhK2SjlgCfr8M
+owner=348435941486100480
+ prefix=h
+game= hhelp
+stayinchannel=true
+songinstatus=true 
